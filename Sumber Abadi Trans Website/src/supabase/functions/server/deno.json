@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "hono": "npm:hono@^4.0.0"
+  },
+  "compilerOptions": {
+    "lib": ["deno.window"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
+  }
+}
