@@ -5,7 +5,7 @@
 
 # 📌 Project Overview
 
-This project is a website development initiative for **Sumber Abadi Trans**, created as part of the *Perencanaan dan Pengembangan Sistem Informasi (PPSI)* course at Universitas Gunadarma.
+This project is a website development initiative for **Sumber Abadi Trans**, created as part of the *Pengelolaaan Proyek Sistem Informasi (PPSI)* course at Universitas Gunadarma.
 
 The objective of this project is to develop a **company profile website** that provides information about transportation services while strengthening the company's digital presence.
 
@@ -26,17 +26,14 @@ In this project, I served as the **Project Manager**, responsible for planning a
 - Monitored development progress throughout the project
 - Ensured the project was completed according to the planned schedule
 
----
-
-# ⏳ Project Duration
-
-**September 2025 — January 2026**
 
 ---
 
 # 📊 Project Timeline
 
 The following **Gantt Chart** was used to manage project activities and scheduling.
+
+**September 2025 — January 2026**
 
 <p align="center">
   <img src="gantt-chart.png" width="850">
