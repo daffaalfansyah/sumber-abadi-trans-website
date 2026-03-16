@@ -66,6 +66,7 @@ The website provides several key features including:
 - 🚌 **Transportation Service Information**  
 - 📄 **Service Details**  
 - 📞 **Contact Information**
+- 🚚 **Freight cost estimate**
 
 ---
 
